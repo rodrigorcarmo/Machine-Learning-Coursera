@@ -1,1 +1,1 @@
-"# Machine-Learning-Coursera" 
+"University of Washington's Machine Learning Specialization" 
